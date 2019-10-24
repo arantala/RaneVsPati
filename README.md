@@ -1,2 +1,0 @@
-# RaneVsPati
-Created with CodeSandbox
